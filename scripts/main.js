@@ -4,17 +4,21 @@
  * 
  *********************************************************************************/
 
-let inputEcriture = document.getElementById("inputEcriture")
-console.log(inputEcriture)
+lancerJeu()
 
-let btnValiderMot = document.getElementById("btnValiderMot")
-console.log(btnValiderMot)
+// J'ai mis ce code en commentaire, nous pourrons le récupérer lorsque nous en auront besoin :
 
-let divZoneProposition = document.querySelector(".zoneProposition")
-console.log(divZoneProposition)
+// let inputEcriture = document.getElementById("inputEcriture")
+// console.log(inputEcriture)
 
-let spanScore = document.querySelector(".zoneScore span")
-console.log(spanScore)
+// let btnValiderMot = document.getElementById("btnValiderMot")
+// console.log(btnValiderMot)
 
-let listeBtnRadio = document.querySelectorAll(".optionSource input")
-console.log(listeBtnRadio)
+// let zoneProposition = document.querySelector(".zoneProposition")
+// console.log(zoneProposition)
+
+// let spanScore = document.querySelector(".zoneScore span")
+// console.log(spanScore)
+
+// let listeBtnRadio = document.querySelectorAll(".optionSource input")
+// console.log(listeBtnRadio)
